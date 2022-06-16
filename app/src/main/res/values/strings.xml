@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Password Generator</string>
+    <string name="start_message">Simple Password Generator</string>
+    <string name="pass_amount">Select the Amount of Characters your password should have.</string>
+    <string name="generate">Generate</string>
+    <string name="enter_amount">Enter the amount of characters</string>
 </resources>
